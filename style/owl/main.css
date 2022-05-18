@@ -1,0 +1,24 @@
+:root{
+    --amarelo: #ffff00;
+    --preto: #272727;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: var(--preto);
+    font-family: 'Arial', Times, serif;
+    color: white;
+}
+
+header .container {
+    display: flex;
+    flex-direction: row;
+    margin-right: 100px;
+    margin-left: 100px;
+    align-items: center;
+}
