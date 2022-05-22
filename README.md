@@ -1,3 +1,3 @@
 # BIG-SPORT
-INICIANDO NETFLIX
+INICIANDO BIG SPORT
 https://alessonsantanna.github.io/BIG-SPORT/
